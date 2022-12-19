@@ -1,0 +1,28 @@
+body{
+    background-image: url(space.png);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: cover;
+    
+
+}
+.text1{
+    padding: 1rem 20rem;
+    margin: 2rem 0;
+
+}
+
+.space1{
+    padding: 10rem 14rem;
+    margin: 2rem 0;
+
+
+}
+
+.notebook1{
+    padding: 10rem 36rem;
+    margin: 2rem 0;
+
+
+
+}

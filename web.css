@@ -1,0 +1,29 @@
+body{
+    background-image: url(forest.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: cover;
+    
+
+}
+.text{
+    padding: 1rem 20rem;
+    margin: 2rem 0;
+
+}
+
+.space{
+    padding: 10rem 14rem;
+    margin: 2rem 0;
+
+
+}
+
+.notebook{
+    padding: 10rem 35.5rem;
+    margin: 2rem 0;
+
+
+
+}
+
